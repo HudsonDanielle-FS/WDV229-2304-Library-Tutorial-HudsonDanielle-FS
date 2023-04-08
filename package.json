@@ -1,0 +1,12 @@
+{
+  "name": "wdv229-2304-library-tutorial-hudsondanielle-fs",
+  "version": "1.0.0",
+  "description": "This repository will be used to keep track of your code for the example program you will create for the Library Tutorial Assignment. Follow the instructions below to get started.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
